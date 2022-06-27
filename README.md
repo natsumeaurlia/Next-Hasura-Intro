@@ -27,9 +27,13 @@ Connect Database Via: Environment Variable
 
 ### Step4
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+setting up environment file.
 
-First, run the development server:
+```text
+cp .env.example .env
+```
+
+run the development server:
 
 ```bash
 npm run dev
